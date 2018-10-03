@@ -1,0 +1,11 @@
+
+# compiled
+*.exe
+*.o
+
+# test files
+*.in
+*.out
+
+# overview pdf files
+Overviews/
