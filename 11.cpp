@@ -1,3 +1,9 @@
+/*
+
+In the 20×20 grid input, four numbers along a diagonal line have been marked in red.
+
+*/
+
 #include <cstdlib>
 #include <iomanip>
 #include <iostream>
